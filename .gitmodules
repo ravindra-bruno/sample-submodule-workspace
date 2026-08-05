@@ -1,15 +1,15 @@
 [submodule "Bruno-HuggingFace"]
 	path = Bruno-HuggingFace
-	url = <https://github.com/bruno-collections/Bruno-HuggingFace>
+	url = https://github.com/bruno-collections/Bruno-HuggingFace
 
 [submodule "external-libraries-zod"]
 	path = external-libraries-zod
-	url = <https://github.com/bruno-collections/external-libraries-zod>
+	url = https://github.com/bruno-collections/external-libraries-zod
 
 [submodule "github-rest-api-collection"]
 	path = github-rest-api-collection
-	url = <https://github.com/bruno-collections/github-rest-api-collection>
+	url = https://github.com/bruno-collections/github-rest-api-collection
 
 [submodule "jsonwebtoken"]
 	path = jsonwebtoken
-	url = <https://github.com/bruno-collections/jsonwebtoken>
+	url = https://github.com/bruno-collections/jsonwebtoken
