@@ -13,3 +13,6 @@
 [submodule "jsonwebtoken"]
 	path = jsonwebtoken
 	url = https://github.com/bruno-collections/jsonwebtoken
+[submodule "collection-endpoint2"]
+	path = collection-endpoint2
+	url = git@github.com:ravindra-bruno/collection-endpoint2.git
