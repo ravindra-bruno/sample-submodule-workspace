@@ -12,6 +12,12 @@ collections:
     path: "../Working with JSON - Testing and Access of Arrays and Objects copy"
   - name: "test"
     path: "collections/test"
+  - name: "Bruno-HuggingFace"
+    path: "Bruno-HuggingFace"
+  - name: "external-libraries-zod"
+    path: "external-libraries-zod"
+  - name: "collection-endpoint2"
+    path: "collection-endpoint2"
 
 specs:
 
