@@ -18,6 +18,8 @@ collections:
     path: "external-libraries-zod"
   - name: "collection-endpoint2"
     path: "collection-endpoint2"
+  - name: "collection-endpoint1"
+    path: "collection-endpoint1"
 
 specs:
 
