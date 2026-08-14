@@ -16,3 +16,6 @@
 [submodule "collection-endpoint2"]
 	path = collection-endpoint2
 	url = git@github.com:ravindra-bruno/collection-endpoint2.git
+[submodule "collection-endpoint1"]
+	path = collection-endpoint1
+	url = git@github.com:ravindra-bruno/collection-endpoint1.git
